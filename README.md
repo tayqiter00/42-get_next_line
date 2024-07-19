@@ -1,1 +1,2 @@
 # 42-get_next_line
+This is my attempt at the Get Next Line project by 42 coding school. Linked list is used in some parts of the code for practice purposes. Code is not written in accordance to the norm!
